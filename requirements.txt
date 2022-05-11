@@ -1,0 +1,3 @@
+# requirements verified in Python 3.8.5
+numpy==1.22.3
+pygame==2.1.2
